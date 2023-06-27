@@ -1,0 +1,11 @@
+/vpn/*.pcap
+/vpn/*.pcapng
+/avpn/*.pcap
+/avpn/*.pcapng
+/__pycache__
+
+bst.pkl
+record.csv
+flow.txt
+data1.pkl
+data2.pkl

@@ -1,0 +1,11 @@
+data_proc.py为单向流提取脚本
+data_set.py为FlowPic生成脚本
+model.py为模型脚本
+train.py为训练脚本
+playground.py为交叉测试脚本
+visualize.py为可视化FlowPic脚本
+
+analysis文件夹为训练好的模型与训练日志
+
+vpn包放入vpn文件夹
+非vpn包放入avpn文件夹
